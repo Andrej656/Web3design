@@ -1,14 +1,23 @@
 {
 	"dark": {
-		"mesh__secondaryDark": 	"#060708",
-		"mesh__secondaryLight": "#030408",
-		"mesh__primaryDark": 	"#05070a",
-		"mesh__primaryLight": 	"#0c1019"
+		"mesh__secondaryDark": 	"#765BFF",
+		"mesh__secondaryLight": "#FD9D41",
+		"mesh__primaryDark": 	"#765BFF",
+		"mesh__primaryLight": 	"#FD9D41"
 	},
 	"light": {
+		"mesh__secondaryDark": 	"#765BFF",
+		"mesh__secondaryLight": "#FD9D41",
+		"mesh__primaryDark": 	"#765BFF",
+		"mesh__primaryLight": 	"#FD9D41"
 
 	},
 	"unicorn": {
+
+		"mesh__secondaryDark": 	"#765BFF",
+		"mesh__secondaryLight": "#FD9D41",
+		"mesh__primaryDark": 	"#765BFF",
+		"mesh__primaryLight": 	"#FD9D41"
 		
 	}
 }
